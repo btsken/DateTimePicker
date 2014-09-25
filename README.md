@@ -8,7 +8,9 @@ Using DialogFragment and Comunicating with fragment.
 Usage
 ------
 
-Implements DatePickerDialogListener, TimePickerDialogListener, DateTimePickerDialogListener(up to what you want)
+First, you should include appcompat_v7 library.
+
+Implements DatePickerDialogListener, TimePickerDialogListener, DateTimePickerDialogListener(up to what you want) in your Fragment
 
 To start picker dialogFragment
 
