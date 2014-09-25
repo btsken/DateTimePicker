@@ -5,6 +5,11 @@ import android.support.v7.app.ActionBarActivity;
 import android.view.Menu;
 import android.view.MenuItem;
 
+/**
+ * Activity for start fragment
+ * @author Ken Huang
+ *
+ */
 public class MainActivity extends ActionBarActivity {
 
     @Override

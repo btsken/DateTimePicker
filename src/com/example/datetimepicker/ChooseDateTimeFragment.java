@@ -20,6 +20,11 @@ import com.example.datetimepicker.DateTimePicker.DatePickerFragment.DatePickerDi
 import com.example.datetimepicker.DateTimePicker.TimePickerFragment.TimePickerDialogListener;
 import com.example.datetimepicker.DateTimePickerDialogFragment.DateTimePickerDialogListener;
 
+/**
+ * Fragment for show how to use datetimepicker dialog
+ * @author Ken Huang
+ *
+ */
 public class ChooseDateTimeFragment extends Fragment implements
 		DatePickerDialogListener, TimePickerDialogListener, DateTimePickerDialogListener {
 

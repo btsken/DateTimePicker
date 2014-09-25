@@ -14,6 +14,11 @@ import android.widget.Button;
 import android.widget.DatePicker;
 import android.widget.TimePicker;
 
+/**
+ * Datetimepicker dialog
+ * @author Ken Huang
+ *
+ */
 public class DateTimePickerDialogFragment extends DialogFragment {
 
     private Button okBtn;

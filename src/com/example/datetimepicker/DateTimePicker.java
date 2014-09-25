@@ -14,6 +14,11 @@ import android.widget.TimePicker;
 
 public class DateTimePicker {
 
+    /**
+     * Timepicker dialog
+     * @author Ken Huang
+     *
+     */
 	public static class TimePickerFragment extends DialogFragment
 			implements TimePickerDialog.OnTimeSetListener {
 
@@ -52,6 +57,11 @@ public class DateTimePicker {
 		}
 	}
 
+	/**
+	 * Datepicker dialog
+	 * @author Ken Huang
+	 *
+	 */
 	public static class DatePickerFragment extends DialogFragment
 			implements DatePickerDialog.OnDateSetListener {
 
