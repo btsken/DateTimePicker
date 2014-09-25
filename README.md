@@ -1,12 +1,14 @@
 DateTimePicker
 ==============
 
-A datepicker, timepicker and datetimepicker app. Using DialogFragment and Comunicating with fragment.
+A datepicker, timepicker and datetimepicker app. 
+
+Using DialogFragment and Comunicating with fragment.
 
 Usage
 ------
 
-implements DatePickerDialogListener, TimePickerDialogListener, DateTimePickerDialogListener(up to what you want)
+Implements DatePickerDialogListener, TimePickerDialogListener, DateTimePickerDialogListener(up to what you want)
 
 To start picker dialogFragment
 
